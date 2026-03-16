@@ -1,5 +1,0 @@
-{
-  "name": "Tạo nhanh câu hỏi trắc nghiệm (giaoviendoimoi.com)",
-  "description": "Generate standard-compliant educational quizzes from documents using Gemini 3.0 Pro/Flash with automatic fallback, LaTeX math support, and Excel export.",
-  "requestFramePermissions": []
-}
